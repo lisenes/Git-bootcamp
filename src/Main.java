@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        String myUsername = "This is my username";
-        String myPassword = "This is my password";
+        String myUsername = "lise";
+        String myPassword = "password";
         String endring = "Good morning";
 
         if(!User.validateUsername(myUsername)) {
