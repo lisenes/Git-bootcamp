@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        String myUsername = "lise";
+        String myUsername = "gledermegtilfredag";
         String myPassword = "password";
         String endring = "Good morning BØØØ";
 
